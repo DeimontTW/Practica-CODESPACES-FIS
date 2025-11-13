@@ -120,6 +120,9 @@ Movemos el cursor al botón que queda en medio, el cual mostrará el mensaje “
 
 ## **PASO 7\. Sube tus evidencias en el FORMS con tus tres imágenes y tu nombre.**
 
+[Google Forms Equipo 7](https://docs.google.com/forms/d/e/1FAIpQLSdU74-YEbEvWvUGPncd_D8qao673t_zRl-8SwmStEecghADiA/viewform?usp=sharing&ouid=112729632360413492033)
+
+
 [image1]: images/image1.png
 
 [image2]: images/image2.png
