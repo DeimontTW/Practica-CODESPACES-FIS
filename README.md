@@ -42,7 +42,11 @@ Sitio ya cargado (La barra de carga ya se completó y aparecen los archivos en l
 ![][image9]  
 *4.6.* Copia y pega **en la terminal** lo siguiente:
 
-sudo apt update && sudo apt install figlet \-y
+Aquí está el comando que debes ejecutar:
+
+```bash
+sudo apt update && sudo apt install figlet -y
+```
 
 **\*\*IMPORTANTE\*\*: El codespace puede no tener habilitada la función de copiar y pegar usando Ctrl+C y Ctrl+V**, por lo que *puede pedir permisos para hacerlo*. Si esto sucede, seleccionamos la opción de “Permitir”.
 
@@ -68,7 +72,9 @@ Y nos debe aparecer algo como esto:
 ![][image15]  
 5.2. Volvemos a la terminal y copiamos y pegamos lo siguiente:
 
+```bash
 bash practica.sh
+```
 
 Al dar ENTER, nos saldrá algo así:  
 ![][image16]
@@ -96,7 +102,9 @@ Al dar ENTER, nos saldrá algo así:
 ![][image9]  
 *6.5.* Copia y pega **en la terminal** lo siguiente:
 
+```
 python3 \-m http.server 8000
+```
 
 *Una vez copiado y pegado, lucirá así:*  
 *![][image21]*  
