@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "=== Explorando el entorno del contenedor ==="
 
 echo
@@ -8,13 +7,13 @@ cat /etc/os-release
 
 echo
 echo "💻 Arquitectura y kernel:"
-uname -a
+uname -m && uname -s && uname -r
 
 echo
 echo "🧰 Herramientas disponibles:"
 which python3
-which g++
-which figlet
+which git
+which node
 
 echo
 echo "🎨 Ejecutando figlet:"
